@@ -1,0 +1,122 @@
+html {
+    font-size: 15px;
+}
+
+.header img{
+    width: 100%;
+    height: 90%;
+}
+
+.headline {
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+}
+
+.select  {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 8rem 3rem 8rem;
+}
+
+.main-img {
+    width: 100%;
+    height: 80%;
+}
+
+.japan {
+    font-size: 1.2rem;
+    padding: 1.5rem ;
+    border: 0.2rem solid #FFCCCC;
+}
+
+.japan:hover {
+    border: 0.2rem solid red;
+}
+
+.japan h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: -0.5rem;
+    margin-bottom: 3rem;
+}
+
+.japan a {
+    text-decoration: none;
+    color: #000;
+}
+
+.beat15 {
+    font-size: 1.2rem;
+    padding: 1.5rem ;
+    border: 0.2rem solid #99FFFF;
+}
+
+.beat15:hover {
+    border: 0.2rem solid blue;
+}
+
+.beat15 h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: -0.5rem;
+    margin-bottom: 3rem;
+}
+
+.beat15 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.team {
+    margin:  0 8rem 0rem 8rem;
+}
+
+.team h2 {
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-underline-offset: 0.5rem;
+    font-size: 1.8rem;
+}
+
+.team p {
+    font-size: 1.3rem;
+}
+
+.CONFERENCE ul {
+    display: flex;
+    justify-content: space-around;
+    margin:  0 8rem 0rem 8rem;
+}
+
+.CONFERENCE button {
+    list-style: none;
+    padding: 2rem;
+    border: 0.2rem solid #DDDDDD;
+    background-color: #FFF;
+}
+
+.CONFERENCE a {
+    text-decoration: none;
+    color: #000;   
+}
+
+#blue:hover {
+    border: 0.2rem solid blue;
+}
+#green:hover {
+    border: 0.2rem solid green;
+}
+#red:hover {
+    border: 0.2rem solid red;
+}
+#yellow:hover {
+    border: 0.2rem solid yellow;
+}
+#black:hover {
+    border: 0.2rem solid black;
+}
+#orange:hover {
+    border: 0.2rem solid orange;
+}
